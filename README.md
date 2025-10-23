@@ -3,7 +3,7 @@
 ### Demo - dlt (data load tool)
 
 
-1. Clone this repo: `git clone ...`
+1. Clone this repo: `git clone git@github.com:donotpush/demo.git`
 2. Install uv: https://docs.astral.sh/uv/getting-started/installation/
 3. Install Python: `uv python install 3.12`
 4. Download Python deps: `uv sync`
